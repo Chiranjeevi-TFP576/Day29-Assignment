@@ -1,0 +1,15 @@
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\bin\Debug\net6.0\IndianStateCenSusAnaLyser.exe
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\bin\Debug\net6.0\IndianStateCenSusAnaLyser.deps.json
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\bin\Debug\net6.0\IndianStateCenSusAnaLyser.runtimeconfig.json
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\bin\Debug\net6.0\IndianStateCenSusAnaLyser.dll
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\bin\Debug\net6.0\IndianStateCenSusAnaLyser.pdb
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\obj\Debug\net6.0\IndianStateCenSusAnaLyser.csproj.AssemblyReference.cache
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\obj\Debug\net6.0\IndianStateCenSusAnaLyser.GeneratedMSBuildEditorConfig.editorconfig
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\obj\Debug\net6.0\IndianStateCenSusAnaLyser.AssemblyInfoInputs.cache
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\obj\Debug\net6.0\IndianStateCenSusAnaLyser.AssemblyInfo.cs
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\obj\Debug\net6.0\IndianStateCenSusAnaLyser.csproj.CoreCompileInputs.cache
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\obj\Debug\net6.0\IndianStateCenSusAnaLyser.dll
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\obj\Debug\net6.0\refint\IndianStateCenSusAnaLyser.dll
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\obj\Debug\net6.0\IndianStateCenSusAnaLyser.pdb
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\obj\Debug\net6.0\IndianStateCenSusAnaLyser.genruntimeconfig.cache
+D:\IndianStateCenSusAnaLyser\IndianStateCenSusAnaLyser\obj\Debug\net6.0\ref\IndianStateCenSusAnaLyser.dll
